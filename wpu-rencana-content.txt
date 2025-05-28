@@ -13,3 +13,7 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+ *Library
+  ^ Pandas
+  ^ Numpy
+  ^ Sklearn
